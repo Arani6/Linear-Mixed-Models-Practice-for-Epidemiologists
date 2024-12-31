@@ -8,7 +8,7 @@ Welcome to this repository! Here you'll find:
 - Tutorials and guides
 
 ## Learn More
-Visit the repository: [GitHub Repo](https://github.com/username/python-lmm-practice)
+Visit the repository: [GitHub Repo]([https://github.com/username/python-lmm-practice](https://github.com/Arani6/Linear-Mixed-Models-Practice-for-Epidemiologists.git))
 
 ### Acknowledgment
 Some of the code and examples in this repository were developed with ChatGPT, an AI model by OpenAI, based on concepts from the following references : 
