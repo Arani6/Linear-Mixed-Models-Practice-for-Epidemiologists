@@ -1,6 +1,14 @@
 # Linear-Mixed-Models-Practice-for-Epidemiologists
 This repository is designed for epidemiologists and data analysts to practice and learn Python-based Linear Mixed Models (LMM). 
+# Python Practice for Linear Mixed Models
 
+Welcome to this repository! Here you'll find:
+- Python scripts for LMMs
+- Example datasets
+- Tutorials and guides
+
+## Learn More
+Visit the repository: [GitHub Repo](https://github.com/username/python-lmm-practice)
 
 ### Acknowledgment
 Some of the code and examples in this repository were developed with ChatGPT, an AI model by OpenAI, based on concepts from the following references : 
